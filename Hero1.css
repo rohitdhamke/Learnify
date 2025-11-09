@@ -1,0 +1,17 @@
+.hero1-container{
+    /* background-color: #1f3348; */
+    background: linear-gradient(to bottom, #1f3348, #111827);
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.hero1-container .dark-theme{
+    background: white;
+    color: black;
+}
+.heading{
+    font-size:28px;
+    margin-bottom: 10px;
+}
